@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.deps.json
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.runtimeconfig.json
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.runtimeconfig.dev.json
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.dll
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.pdb
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.AssemblyInfo.cs
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.dll
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.deps.json
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.json
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.dev.json
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.dll
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.pdb
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfo.cs
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.dll
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.pdb

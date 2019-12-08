@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Logger\bin\Debug\netcoreapp2.1\Logger.deps.json
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Logger\bin\Debug\netcoreapp2.1\Logger.runtimeconfig.json
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Logger\bin\Debug\netcoreapp2.1\Logger.runtimeconfig.dev.json
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Logger\bin\Debug\netcoreapp2.1\Logger.dll
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Logger\bin\Debug\netcoreapp2.1\Logger.pdb
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Logger\obj\Debug\netcoreapp2.1\Logger.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Logger\obj\Debug\netcoreapp2.1\Logger.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Logger\obj\Debug\netcoreapp2.1\Logger.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Logger\obj\Debug\netcoreapp2.1\Logger.AssemblyInfo.cs
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Logger\obj\Debug\netcoreapp2.1\Logger.dll
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\Logger\obj\Debug\netcoreapp2.1\Logger.pdb

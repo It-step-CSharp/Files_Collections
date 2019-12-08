@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\FileStream\bin\Debug\netcoreapp2.1\FileStream.deps.json
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\FileStream\bin\Debug\netcoreapp2.1\FileStream.runtimeconfig.json
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\FileStream\bin\Debug\netcoreapp2.1\FileStream.runtimeconfig.dev.json
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\FileStream\bin\Debug\netcoreapp2.1\FileStream.dll
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\FileStream\bin\Debug\netcoreapp2.1\FileStream.pdb
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\FileStream\obj\Debug\netcoreapp2.1\FileStream.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\FileStream\obj\Debug\netcoreapp2.1\FileStream.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\FileStream\obj\Debug\netcoreapp2.1\FileStream.AssemblyInfo.cs
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\FileStream\obj\Debug\netcoreapp2.1\FileStream.dll
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\FileStream\obj\Debug\netcoreapp2.1\FileStream.pdb
+C:\Users\user\Desktop\Files_and_Collections\Files_and_Collections\FileStream\obj\Debug\netcoreapp2.1\FileStream.csprojAssemblyReference.cache
